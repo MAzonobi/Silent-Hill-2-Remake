@@ -1,0 +1,5 @@
+0|TA Test Area 0|Center Area. Exits in all directions.|1|2|3|4|
+1|TA Test Area 1|North Area. Exit south. |-1|-1|0|-1|
+2|TA Test Area 2|East Area. Exit west.|-1|-1|-1|0|
+3|TA Test Area 3|South Area. Exit north. |0|-1|-1|-1|
+4|TA Test Area 4|West Area. Exit east.|-1|0|-1|-1|
